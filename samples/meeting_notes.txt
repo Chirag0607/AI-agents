@@ -1,0 +1,8 @@
+Project sync notes
+Attendees: Priya, Rahul, Anjali, me
+
+- Rahul will fix the login bug and push the patch by next Tuesday. High priority.
+- Anjali to share the revised data-processing document with the team by Friday.
+- I need to prepare the demo for the client and rehearse it before Thursday.
+- Priya will book the meeting room for the review, no deadline given.
+- Idea only, not a task: maybe explore a cheaper embedding model later.
